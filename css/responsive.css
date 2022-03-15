@@ -1,0 +1,213 @@
+/* DWI */
+@media only screen and (min-width: 1025px) and (max-width: 1200px){
+  header, .wrapper-dwi .container .menu ul li{
+    height: 87px;
+  }
+  .wrapper-dwi .container{
+    padding: 0px 2%;
+    width: 100%;
+  }
+  .wrapper-dwi .container .logo{
+    padding-top: 18px;
+  }
+  .wrapper-dwi .container .menu{
+    margin-right: 0;
+  }
+  .wrapper-dwi .container .menu ul li a{
+    padding: 30px 36px;
+  }
+  .wrapper-dwi .banner{
+    height: 524px;
+    width: 100%;
+  }
+  .wrapper-dwi .banner2{
+    top: 144px;
+  }
+  .wrapper-dwi .banner .banner2 .leftside h3{
+    font-size: 32px;
+  }
+
+  .banner .rightside { width: 66%;}
+}
+
+/* AHMAD */
+@media only screen and (min-width: 1025px) and (max-width: 1200px) {
+
+  .services_ahmad .center{
+    padding: 0px 2%;
+    width: 100%;
+  }
+	.services_ahmad .Serviceside { 
+    width: 100%; 
+    padding: 50px 0 30px; 
+  }
+	.services_ahmad .Serviceside li { 
+    padding: 30px 36px;
+    margin: 0px 2% 0px 0px; 
+    width: 23.5%; 
+  }
+	.contact_ahmad .Center { 
+    width: 100%; 
+    padding: 70px 2%;
+  }
+}
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .services_ahmad { 
+    width: 100%; 
+    padding: 70px 0px 30px 0px; 
+  }
+	.services_ahmad .Center { 
+    width: 100%; 
+    padding: 0px 2%; 
+  }
+	.services_ahmad h2 { 
+    font-size: 40px; 
+    line-height: 40px; 
+  }
+	.services_ahmad p { 
+    padding: 15px 0px; 
+    font-size: 13px; 
+  }
+	.services_ahmad .Serviceside { 
+    width: 100%; 
+    padding: 50px 0 30px; 
+  }
+	.services_ahmad .Serviceside li { 
+    margin: 0px 2% 0px 0px; 
+    width: 23.5%; 
+  }
+
+	.services_ahmad .Serviceside li.Development a { 
+    background-size: 60%;
+  }
+	.services_ahmad .Serviceside li.Development h4 { 
+    padding: 134px 0 0; 
+  }
+	.services_ahmad .Serviceside li.Development a:hover h4 { 
+    background-size: 60%;
+  }
+
+	.services_ahmad .Serviceside li.Desdin a { 
+    background-size: 60%;
+  }
+	.services_ahmad .Serviceside li.Desdin h4 { 
+    padding: 134px 0 0; 
+  }
+	.services_ahmad .Serviceside li.Desdin a:hover h4 { 
+    background-size: 60%;
+  }
+
+	.services_ahmad .Serviceside li.Concept a { 
+    background-size: 60%;
+  }
+	.services_ahmad .Serviceside li.Concept h4 { 
+    padding: 134px 0 0; 
+  }
+	.services_ahmad .Serviceside li.Concept a:hover h4 { 
+    background-size: 60%;
+  }
+
+	.services_ahmad .Serviceside li.System a { 
+    background-size: 60%;
+  }
+	.services_ahmad .Serviceside li.System h4 { 
+    padding: 134px 0 0; 
+  }
+	.services_ahmad .Serviceside li.System a:hover h4 { 
+    background-size: 60%;
+  }
+  .contact_ahmad { 
+    width: 100%; 
+  }
+	.contact_ahmad .Center { 
+    width: 100%; 
+    padding: 70px 2% 30px 2%; 
+  }
+	.contact_ahmad h2 { 
+    font-size: 40px; 
+    line-height: 40px; 
+  }
+	.contact_ahmad p { 
+    padding: 15px 0px; 
+    font-size: 13px; 
+  }
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+  .services_ahmad { 
+    width: 100%; 
+    padding: 100px 0px 30px; 
+  }
+	.services_ahmad .Center { 
+    width: 100%; 
+    padding: 0px 3%; 
+  }
+	.services_ahmad h2 { 
+    font-size: 30px; 
+    line-height: 30px; 
+  }
+	.services_ahmad p { 
+    padding: 15px 0px; 
+    font-size: 13px; 
+  }
+	.services_ahmad .Serviceside { 
+    width: 100%; 
+    padding: 50px 0 30px; 
+  }
+	.services_ahmad .Serviceside li { 
+    margin: 0px 0% 3% 2%; 
+    float: none; 
+    display:inline-block; 
+  }
+  .contact_ahmad { 
+    width: 100%; }
+	.contact_ahmad .Center { 
+    width: 100%; 
+    padding: 80px 3%;
+  }
+	.contact_ahmad h2 { 
+    font-size: 30px; 
+    line-height: 30px; 
+  }
+	.contact_ahmad p { 
+    padding: 15px 0px; 
+    font-size: 13px; 
+  }
+}
+@media only screen and (max-width: 479px) {
+  .services_ahmad .Center { 
+    width: 100%; 
+    padding: 0px 3%; 
+  }
+	.services_ahmad h2 { 
+    font-size: 30px; 
+    line-height: 30px; 
+  }
+	.services_ahmad p { 
+    padding: 15px 0px; 
+    font-size: 13px; 
+  }
+	.services_ahmad .Serviceside { 
+    width: 100%; 
+    padding: 50px 0 30px; 
+  }
+	.services_ahmad .Serviceside li { 
+    margin: 0px 0% 3% 2%; 
+    float: none; 
+    display:inline-block; 
+  }
+  .contact_ahmad { 
+    width: 100%; 
+  }
+	.contact_ahmad .Center {
+    width: 100%; 
+    padding: 60px 3% 30px;
+  }
+	.contact_ahmad h2 { 
+    font-size: 30px; 
+    line-height: 30px; 
+  }
+	.contact_ahmad p { 
+    padding: 15px 0px; 
+    font-size: 13px; 
+  }
+}
